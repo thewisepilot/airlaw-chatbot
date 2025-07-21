@@ -1,0 +1,7 @@
+{
+  "name": "airlaw-chatbot",
+  "version": "1.0.0",
+  "description": "Wise Pilot Canadian Air Law Chatbot",
+  "main": "embed.js",
+  "license": "MIT"
+}
